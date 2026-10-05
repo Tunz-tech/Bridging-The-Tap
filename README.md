@@ -43,4 +43,3 @@ The master combined dataset (`JMP_2030_Master_Combined_Analytics.csv`) contains 
 ## Full Project Access
 This Project dashboard was built with Vercel.app. Follow the link below for Visual Display of Analysis
 Link to Dashboard: https://bridging-the-tap-dashboard.vercel.app/
-Link to Repo: https://github.com/username/other-repo](https://github.com/Tunz-tech/Bridging-The-Tap-dashboard.
